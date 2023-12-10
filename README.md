@@ -1,7 +1,8 @@
-# android-uts-fibbonaci
-tugas uts membuat hitung fibonacci dengan andorid
+# Belajar membuat Tab Layout dengan Fragment android java
 
 #### Berikut output program :
 
 
-![android](https://github.com/adam-webdev/android-uts-fibbonaci/assets/75572469/2c4f936e-3a56-40db-9613-5276ed3e803c)
+
+https://github.com/adam-webdev/android-tab-fragment/assets/75572469/c41c3093-61f5-47d5-a00e-e83a3fcd9343
+
