@@ -42,5 +42,5 @@
     <string name="text_header_reply">Reply Received</string>
     <string name="title_activity_maps">MapsActivity</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Blank Fragment</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
 </resources>
