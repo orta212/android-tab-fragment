@@ -32,7 +32,7 @@ public class CountActivity extends AppCompatActivity {
         buttonToast.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(CountActivity.this, "Selamat datang di AdamApps", Toast.LENGTH_SHORT).show();
+                Toast.makeText(CountActivity.this, "Selamat datang di Orta Apps", Toast.LENGTH_SHORT).show();
             }
         });
 

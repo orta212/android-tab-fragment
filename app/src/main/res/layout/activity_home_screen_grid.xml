@@ -28,7 +28,7 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/imghome"
             android:textColor="@color/white"
-            android:text="Selamat Datang Di AdamApps"
+            android:text="Selamat Datang Di Orta Apps"
             android:textSize="24sp" />
     </LinearLayout>
     <GridLayout
